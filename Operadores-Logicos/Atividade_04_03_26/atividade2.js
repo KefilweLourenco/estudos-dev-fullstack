@@ -1,0 +1,22 @@
+//Lista 02 - Exercício-3
+import leia from 'readline-sync'
+
+let totalMenores21 = 0;
+let totalMaiores50 = 0;
+
+let idade = leia.questionInt("Digite uma idade: ");
+
+while (idade >= 0){
+    if (idade < 21){
+        totalMenores21++;
+    }
+
+    if (idade > 50) {
+        totalMaiores50++;
+    }
+    
+    idade = leia.questionInt("Digite uma idade: ");
+}
+
+console.log(`Total de pessoas menores de 21 anos: ${totalMenores21}`);
+console.log(`Total de pessoas maiores de 50 anos: ${totalMaiores50}`);
