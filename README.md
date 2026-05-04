@@ -1,46 +1,47 @@
 # Estudos Dev Fullstack 🚀
 
-Repositório dedicado ao armazenamento de exercícios, projetos e anotações teóricas realizados durante a minha trajetória de aprendizado em desenvolvimento Fullstack. O foco principal é a consolidação de fundamentos de programação, lógica e tecnologias do ecossistema JavaScript/TypeScript.
+Repositório central para consolidar o aprendizado em desenvolvimento web moderno. Aqui armazeno exercícios práticos, desafios técnicos e projetos desenvolvidos durante minha formação como desenvolvedor Fullstack JavaScript.
 
-## 🗂️ Estrutura do Repositório
+## 🗂️ Organização do Repositório
 
-O conteúdo está organizado por módulos para facilitar o estudo progressivo:
+O projeto é dividido em módulos que acompanham a evolução do aprendizado:
 
-* **`Banco_de_dados`**: Scripts, modelagens e conceitos de bancos de dados relacionais.
-* **`Estrutura-da-Programacao`**: Exercícios focados em lógica, laços de repetição e fundamentos base.
-* **`Nestjs`**: Projetos iniciais e configurações utilizando o framework NestJS para o Backend.
-* **`Operadores-Logicos`**: Práticas específicas sobre tabelas verdade e lógica booleana.
-* **`TypeScript`**: Implementações utilizando tipagem estática e recursos avançados da linguagem.
-* **`Variaveis-condicionais`**: Primeiros passos com manipulação de dados e fluxos de decisão.
+* **`Banco_de_dados`**: Modelagem, consultas SQL e gestão de dados relacionais.
+* **`Estrutura-da-Programacao`**: Fundamentos de algoritmos e lógica de programação.
+* **`Nestjs`**: Desenvolvimento de APIs robustas utilizando o framework NestJS para o ecossistema Node.js.
+* **`Operadores-Logicos`**: Exercícios focados em lógica booleana e estruturas de decisão.
+* **`TypeScript`**: Implementações que exploram tipagem estática e as vantagens da linguagem sobre o JS puro.
+* **`Variaveis-condicionais`**: Prática inicial com fluxos de controle e manipulação de variáveis.
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Tecnológica
 
-As principais tecnologias exploradas neste repositório são:
+As principais ferramentas e tecnologias aplicadas nestes estudos incluem:
 
-* **TypeScript / JavaScript (ES6+)**
-* **NestJS**
-* **Node.js**
-* **MySQL / TypeORM** (conforme aplicável aos estudos de DB)
-* **HTML5**
+- **Linguagens**: JavaScript (ES6+), TypeScript.
+- **Backend**: NestJS, Node.js.
+- **Persistência**: MySQL, TypeORM.
+- **Versionamento**: Git e GitHub.
 
-## 🎯 Objetivos de Aprendizado
+## 🎯 Objetivos Atuais
 
-- [x] Domínio de algoritmos e lógica de programação.
-- [x] Transição sólida do JavaScript para TypeScript.
-- [x] Construção de APIs robustas com NestJS.
+- [x] Sólida compreensão de lógica de programação.
+- [x] Criação de CRUDs funcionais com NestJS.
 
-## 🚀 Como utilizar
+## 🚀 Como Explorar
 
-Se desejar testar algum dos códigos presentes aqui:
+Para rodar os exercícios localmente:
 
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/KefilweLourenco/estudos-dev-fullstack.git](https://github.com/KefilweLourenco/estudos-dev-fullstack.git)
-Navegue até a pasta do módulo desejado:
+Entre na pasta do módulo desejado:
 
 Bash
-cd Nome-da-Pasta
-Siga as instruções específicas de instalação (geralmente npm install) caso haja um arquivo package.json.
+cd Nome-do-Modulo
+Caso o módulo possua um arquivo package.json, instale as dependências:
 
+Bash
+npm install
 Desenvolvido por KF 👋
-Estudante de Psicologia e Desenvolvedor Fullstack em formação.
+
+Desenvolvedor Fullstack em transição de carreira e Estudante de Psicologia.
