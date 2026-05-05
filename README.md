@@ -42,6 +42,6 @@ Caso o módulo possua um arquivo package.json, instale as dependências:
 
 Bash
 npm install
-Desenvolvido por KF 👋
+Desenvolvido por KF 👋🏾
 
 Desenvolvedor Fullstack em transição de carreira e Estudante de Psicologia.
